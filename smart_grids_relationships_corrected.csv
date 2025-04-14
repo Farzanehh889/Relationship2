@@ -1,0 +1,36 @@
+Source,Relationship.type,Target,Description
+Smart Grids,positive,Electric Vehicles,"Smart grids enable efficient EV charging, manage demand, and integrate renewable energy."
+Smart Grids,positive,Autonomous Vehicles,Smart grids facilitate the use of autonomous vehicles by optimizing energy usage and charging.
+Smart Grids,positive,Heat Pumps,Smart grids help optimize energy usage of heat pumps by managing electricity demand.
+Smart Grids,positive,District Energy,Smart grids optimize energy distribution and usage for district energy systems.
+Smart Grids,positive,Smart Meters,"Smart grids are enabled by smart meters, which optimize energy usage and consumption monitoring."
+Smart Grids,positive,Car Sharing,Smart grids enable car sharing by optimizing charging infrastructure and grid stability.
+Smart Grids,positive,EV Charging Points,Smart grids optimize EV charging points by balancing grid load and demand.
+Smart Grids,positive,Biomass Boilers,Smart grids optimize biomass boilers by managing energy efficiency and distribution.
+Smart Grids,positive,Public Transportation,Smart grids enhance the efficiency and integration of public transportation systems.
+Smart Grids,positive,Solar PV,Smart grids support the operation of solar PV systems by integrating renewable energy into the grid.
+Smart Grids,positive,Cycling,Smart grids optimize energy usage for cycling infrastructure by managing charging points and energy flow.
+Smart Grids,positive,Bike Sharing System,Smart grids help optimize bike sharing systems by providing efficient charging and energy distribution.
+Smart Grids,positive,Multi-purpose Buildings,Smart grids enable energy-efficient multi-purpose buildings by managing electricity demand and supply.
+Smart Grids,positive,Renewable Energy Generation,Smart grids enhance renewable energy generation by optimizing integration into the energy grid.
+Smart Grids,positive,Energy Management Systems,Smart grids enable energy management systems by facilitating real-time data and efficiency control.
+Smart Grids,positive,Electrification of Public Transport,Smart grids facilitate the electrification of public transport by integrating renewable energy and managing demand.
+Smart Grids,positive,Clean Air Zone,Smart grids help create clean air zones by reducing emissions and managing electric vehicle charging.
+Smart Grids,positive,Solar Thermal,Smart grids enhance solar thermal systems by optimizing energy distribution and usage.
+Smart Grids,positive,HVAC Electrification,Smart grids optimize HVAC electrification by integrating renewable energy and managing demand.
+Smart Grids,positive,Smart Traffic Management Systems,Smart grids improve smart traffic management by optimizing energy usage for traffic systems.
+Smart Grids,positive,Building Retrofitting,Smart grids help with building retrofitting by optimizing energy usage in upgraded infrastructure.
+Smart Grids,positive,Green Roofs and Walls,Smart grids support green roofs and walls by optimizing energy usage and integration of renewable energy.
+Smart Grids,positive,Greenspaces,Smart grids optimize greenspaces by managing energy for public spaces and integrating renewable energy.
+Smart Grids,positive,Mobility as a Service,Smart grids enable mobility as a service (MaaS) by optimizing energy use and transportation infrastructure.
+Smart Grids,positive,Autonomous Vehicles,Smart grids optimize the integration of autonomous vehicles into energy networks by enabling efficient charging.
+Smart Grids,positive,Electric Vehicles,Smart grids help integrate electric vehicles into the grid by managing charging points and energy distribution.
+Smart Grids,positive,Smart Meters,"Smart grids are connected to smart meters, which provide data for optimal energy consumption."
+Smart Grids,positive,Smart Grids,Smart grids improve car sharing services by managing demand and charging infrastructure.
+Smart Grids,positive,Car Sharing,Smart grids optimize the distribution of energy across EV charging points to ensure efficient use.
+Smart Grids,positive,EV Charging Points,Smart grids work with biomass boilers to improve energy efficiency and management in the system.
+Smart Grids,positive,Biomass Boilers,Smart grids support public transportation by improving energy distribution and managing demand.
+Smart Grids,positive,Public Transportation,Smart grids enhance renewable energy generation by enabling the integration of solar and wind power into the grid.
+Smart Grids,positive,Renewable Energy Generation,Smart grids enable clean air zones by improving energy efficiency and reducing emissions.
+Smart Grids,positive,Clean Air Zone,Smart grids help manage energy in energy management systems to improve efficiency.
+Smart Grids,positive,Energy Management Systems,Smart grids optimize solar PV systems by improving energy distribution and integration with the grid.
